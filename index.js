@@ -72,3 +72,11 @@ document.write(((a+b*c)/5)*2);
 }
 
 console.log(suma(4,8)); */
+
+//Entendiendo el return 
+function resta (num1, num2) {
+	var resultado = num1-num2;
+	return resultado;
+
+}
+console.log (resta (85, 8));
